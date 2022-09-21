@@ -1,0 +1,290 @@
+{
+	"source": "https://www.haw-hamburg.de/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf",
+	"name": "B-ITS1",
+	"version": "1.00",
+	"date": "17.09.2022",
+	"weekdays":
+	[
+		[
+			{
+				"weeks": "38",
+				"start": "9:00",
+				"end": "17:00",
+				"name": "BITS1-OE I",
+				"location": "1060",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "39, 41-43, 45-51, 54-55",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MS",
+				"location": "",
+				"prof": "BRN",
+				"type": "Online"
+			},
+			{
+				"weeks": "39, 41-43, 45-51, 54-55",
+				"start": "13:30",
+				"end": "16:45",
+				"name": "BITS1-PM1/PT",
+				"location": "SteinD94 R0.01",
+				"prof": "SML",
+				"type": "Präsenz"
+			}
+		],
+		[
+			{
+				"weeks": "40-51, 54-55",
+				"start": "9:30",
+				"end": "11:00",
+				"name": "BITS1-PTP/02",
+				"location": "1101b",
+				"prof": "SKT/[Kas]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "11:15",
+				"end": "12:45",
+				"name": "BITS1-PTP/03",
+				"location": "0380a",
+				"prof": "SML/[Bla]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "13:30",
+				"end": "15:00",
+				"name": "BITS1-PTP/05",
+				"location": "1101a",
+				"prof": "SML/[Bla]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "38",
+				"start": "9:00",
+				"end": "17:00",
+				"name": "BITS1-OE I",
+				"location": "1060",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "8:00",
+				"end": "9:30",
+				"name": "BITS1-PTP Tut/02",
+				"location": "1101b",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "9:30",
+				"end": "11:00",
+				"name": "BITS1-PTP/01",
+				"location": "1101a",
+				"prof": "SML/[Bla]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "12:00",
+				"end": "13:30",
+				"name": "BITS1-PTP Tut/05",
+				"location": "1101a",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "13:30",
+				"end": "15:00",
+				"name": "BITS1-PTP/06",
+				"location": "1101b",
+				"prof": "SKT/[Kas]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "8:00",
+				"end": "9:30",
+				"name": "BITS1-PTP Tut/01",
+				"location": "1101a",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "9:45",
+				"end": "11:15",
+				"name": "BITS1-PTP Tut/04",
+				"location": "0380b",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "11:15",
+				"end": "12:45",
+				"name": "BITS1-PTP/04",
+				"location": "0380b",
+				"prof": "SKT/[Kas]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "39",
+				"start": "13:30",
+				"end": "16:45",
+				"name": "BITS1-PM1/PT",
+				"location": "1060",
+				"prof": "SML",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "9:45",
+				"end": "11:15",
+				"name": "BITS1-PTP Tut/03",
+				"location": "0380a",
+				"prof": "",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "39",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MS",
+				"location": "",
+				"prof": "BRN",
+				"type": "Online"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "12:00",
+				"end": "13:30",
+				"name": "BITS1-PTP Tut/06",
+				"location": "1101b",
+				"prof": "",
+				"type": "Präsenz"
+			}
+		],
+		[
+			{
+				"weeks": "39-43, 45-51, 54-55",
+				"start": "8:30",
+				"end": "11:45",
+				"name": "BITS1-DM/DMÜ",
+				"location": "1001",
+				"prof": "PDB",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "39, 41-51, 54-55",
+				"start": "12:30",
+				"end": "15:45",
+				"name": "BITS1-PM1/PT",
+				"location": "SteinD94 R0.01",
+				"prof": "SML",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "38",
+				"start": "9:00",
+				"end": "17:00",
+				"name": "BITS1-OE I",
+				"location": "1060",
+				"prof": "",
+				"type": "Präsenz"
+			}
+
+		],
+		[
+			{
+				"weeks": "39-51, 54-55",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-GT",
+				"location": "NB 01.11",
+				"prof": "BCK",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "39-51, 54-55",
+				"start": "12:30",
+				"end": "15:45",
+				"name": "BITS1-DM/DMÜ",
+				"location": "1001",
+				"prof": "PDB",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "38",
+				"start": "9:00",
+				"end": "17:00",
+				"name": "BITS1-OE I",
+				"location": "1060",
+				"prof": "",
+				"type": "Präsenz"
+			}
+		],
+		[
+			{
+				"weeks": "39",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MS",
+				"location": "",
+				"prof": "BRN",
+				"type": "Online"
+			},
+			{
+				"weeks": "39",
+				"start": "12:30",
+				"end": "15:45",
+				"name": "BITS1-GT",
+				"location": "1001",
+				"prof": "BCK",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "43, 46, 49, 54",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MSP/03",
+				"location": "0502",
+				"prof": "BRN/[Rac]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "40-51, 54-55",
+				"start": "12:30",
+				"end": "19:10",
+				"name": "BITS1-GTPalle",
+				"location": "0701-0765",
+				"prof": "BCK/[Ben]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "42, 45, 48, 51",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MSP/02",
+				"location": "0502",
+				"prof": "BRN/[Rac]",
+				"type": "Präsenz"
+			},
+			{
+				"weeks": "41, 44, 47, 50",
+				"start": "8:15",
+				"end": "11:30",
+				"name": "BITS1-MSP/01",
+				"location": "0502",
+				"prof": "BRN/[Rac]",
+				"type": "Präsenz"
+			}
+		]
+	]
+}
